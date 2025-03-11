@@ -9,30 +9,12 @@ nav_order: 2
 ## JupyterHub Setup:  
 *Very easy!*
 
-### Step 1: Log in:
-I will create your username in the session, and you'll set your password the first time you log in.  
-
-**Go to the following link:**   
-[https://jupyter-crdds.rc.colorado.edu/](https://jupyter-crdds.rc.colorado.edu/){:target="_blank"}
-This will only be available through this week, but all workshop materials are available on GitHub for later use.  
-
-***
-
-Your home page will look like this:   
-
-![HomePage][HubHome]  
-
-***
-
-### Step 2: Import Workshop Notebooks
-
-__Go to the following link: [bit.ly/geopdnotebooks](http://bit.ly/geopdnotebooks)__
-
-Now, refresh your JupyterHub homepage. This will add all of the workshop notebooks to your JupyterHub. It should now look like this:  
-
-![NotebooksAdded][HubHome2]
+### Step 0: Go to this link:
+[https://mybinder.org/v2/gh/whitephil/geopandas_notebooks/HEAD](https://mybinder.org/v2/gh/whitephil/geopandas_notebooks/HEAD){:target="_blank"}
 
 *Done! I told you it was easy!*
+
+This workshop will use JupyterHub hosted on [mybinder.org](https://mybinder.org){:target="_blank"}.  
 
 [Python]: img/PythonLogo.png
 [Pandas]: img/Pandas_logo.png
