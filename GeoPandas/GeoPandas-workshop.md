@@ -10,7 +10,7 @@ nav_order: 7
 Welcome to the GeoPandas workshop guide page. On this page you can find general information about the workshop and links to relevant documentation and materials. All of the workshop data and materials are linked below and available on GitHub.  
 ![Python Logo][Python] ![Pandas Logo][Pandas]  
 
-**To visit this page, go here: [https://bit.ly/cu_gpd_workshop](bit.ly/cu_gpd_workshop)**
+**To visit this page, go here: [bit.ly/cu_gpd_workshop](https://bit.ly/cu_gpd_workshop)**
 
 
 ***
