@@ -10,7 +10,7 @@ nav_order: 8
 Welcome to the Rasterio workshop guide page. On this page you can find general information about the workshop and links to relevant documentation and materials. All of the workshop data and materials are linked below and available on GitHub.  
 ![Python Logo][Python]
 
-## [Visit this page here:bit.ly/crdds_rio](https://bit.ly/crdds_rio)
+## [Visit this page here: bit.ly/crdds_rio](https://bit.ly/crdds_rio)
 
 ***
 ### Presenters
