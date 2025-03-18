@@ -10,6 +10,8 @@ nav_order: 8
 Welcome to the Rasterio workshop guide page. On this page you can find general information about the workshop and links to relevant documentation and materials. All of the workshop data and materials are linked below and available on GitHub.  
 ![Python Logo][Python]
 
+## [Visit this page here:bit.ly/crdds_rio](https://bit.ly/crdds_rio)
+
 ***
 ### Presenters
 Phil White <a href='https://github.com/outpw' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
