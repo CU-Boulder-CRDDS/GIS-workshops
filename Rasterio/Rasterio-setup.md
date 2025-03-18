@@ -10,7 +10,7 @@ nav_order: 2
 *Very easy!*
 
 ## Go to the following link:   
-__[https://mybinder.org/v2/gh/whitephil/rasterio_notebooks/HEAD](https://mybinder.org/v2/gh/whitephil/rasterio_notebooks/HEAD)__
+__[https://mybinder.org/v2/gh/whitephil/rasterio_notebooks/HEAD](https://mybinder.org/v2/gh/whitephil/rasterio_notebooks/HEAD){:target="_blank"}__
 
 ***
 Your home page will look like this:   
