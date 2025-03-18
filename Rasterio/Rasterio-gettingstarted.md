@@ -22,7 +22,7 @@ __Visit:__
 
 ## Today's Tech:
 
-__Jupyter Notebooks running from a JupyterHub.__  
+__Jupyter Notebooks running from a JupyterHub/MyBinder.__  
 Why JupyterHub? Because we can all sit down and start coding with minimal setup! JupyterHub is a great technology for teaching programming. We're all using the same cloud computer, so you don't have to set anything up ahead of time and everything just works. But for those of you that want to continue using Python/Jupyter Notebooks/Pandas/GeoPandas on your own machine, I highly recommend the Anaconda Python distribution: [anaconda.com/distribution](https://www.anaconda.com/distribution/) (works for R, too)
 
 For future reference:  
