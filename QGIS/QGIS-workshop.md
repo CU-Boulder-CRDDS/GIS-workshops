@@ -13,7 +13,9 @@ _____
 Phil White <a href='https://github.com/outpw' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Earth, Environment & Geospatial Librarian  
 University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+[philip.white@colorado.edu](mailto:philip.white@colorado.edu)  
+
+Access this page here: [bit.ly/qgis_workshop](https://bit.ly/qgis_workshop)
 
 - Please install [QGIS](https://www.qgis.org) on your workstation. QGIS works on Mac, Windows, and Linux operating systems.
 {: .prereq}
